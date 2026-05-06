@@ -1,0 +1,8 @@
+pyproject.toml
+nbdev_practice/__init__.py
+nbdev_practice/_modidx.py
+nbdev_practice/core.py
+nbdev_practice.egg-info/PKG-INFO
+nbdev_practice.egg-info/SOURCES.txt
+nbdev_practice.egg-info/dependency_links.txt
+nbdev_practice.egg-info/top_level.txt

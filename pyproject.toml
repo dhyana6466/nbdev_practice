@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nbdev_practice"
+version = "0.0.1"
+description = "Learning nbdev for research"
+authors = [{name = "Dhyana Patel", email = "dhyanapatel6466@gmail.com"}]
+license = {text = "Apache Software License 2.0"}
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Home = "https://github.com/dhyana6466/nbdev_practice"
+
+[tool.nbdev]
+repo = "nbdev_practice"
+lib_path = "nbdev_practice"
+doc_path = "_docs"
+tst_flags = "notest"
+nbs_path = "nbs"
+recursive = true
+user = "dhyana6466"
+
+[tool.setuptools]
+packages = ["nbdev_practice"]

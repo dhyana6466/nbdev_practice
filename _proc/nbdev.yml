@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_practice"
+  site-url: "/"
+  description: "Learning nbdev for research"
+  repo-branch: main
+  repo-url: ""

@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: nbdev_practice
+Version: 0.0.1
+Summary: Learning nbdev for research
+Author-email: Dhyana Patel <dhyanapatel6466@gmail.com>
+License: Apache Software License 2.0
+Project-URL: Home, https://github.com/dhyana6466/nbdev_practice
+Requires-Python: >=3.9
